@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Robson_Drumond
-- 👀 I’m interested in Data Science, Deep Learning, Power BI, SQL and Python
-- 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on Python, Excel VBA and SQL
+- 👀 I’m interested in Data Science, Deep Learning, Power BI, SQL, AWS and Python
+- 🌱 I’m currently learning DevOps and AWS
+- 💞️ I’m looking to collaborate on Python, Excel VBA, SQL and AWS.
 - 📫 How to reach me e-mail
 
 <!---
